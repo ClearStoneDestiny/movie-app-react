@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/movie-app-react/static/css/main.10439607.css",
+    "main.js": "/movie-app-react/static/js/main.8cc93cf0.js",
+    "static/media/no_info.png": "/movie-app-react/static/media/no_info.03204333defcd3ff1891.png",
+    "static/media/preloader.gif": "/movie-app-react/static/media/preloader.110b48aec4971e912893.gif",
+    "static/media/not_found.png": "/movie-app-react/static/media/not_found.e4803bbf3b19afcfc078.png",
+    "static/media/drama.svg": "/movie-app-react/static/media/drama.13c9c49197e21825274a9d0465338ccd.svg",
+    "static/media/fantasy.svg": "/movie-app-react/static/media/fantasy.46bc3646fa2676ccd82617a6bc1ea737.svg",
+    "static/media/action.svg": "/movie-app-react/static/media/action.d8b5c2de9950cacb76217aac2688d17c.svg",
+    "static/media/war.svg": "/movie-app-react/static/media/war.fe487e7ef1713b36d1deba95e31cad67.svg",
+    "static/media/horror.svg": "/movie-app-react/static/media/horror.d351033401a304fd973a61a88103beac.svg",
+    "static/media/mystery.svg": "/movie-app-react/static/media/mystery.83537c802c7624d3374ac8756afedbbe.svg",
+    "static/media/thriller.svg": "/movie-app-react/static/media/thriller.059ca412fb883fa3268860834d2da92a.svg",
+    "static/media/music.svg": "/movie-app-react/static/media/music.cbc782b98932f2fd8862bd3460ac1326.svg",
+    "static/media/animation.svg": "/movie-app-react/static/media/animation.7cdcecf95c8f4cedbc02b938a8ef758d.svg",
+    "static/media/tv-movie.svg": "/movie-app-react/static/media/tv-movie.fa40f3c9a542493401d06d72489b9a3f.svg",
+    "index.html": "/movie-app-react/index.html",
+    "static/media/romance.svg": "/movie-app-react/static/media/romance.f81add4b76c14cb35bf8e103cbf9636f.svg",
+    "main.10439607.css.map": "/movie-app-react/static/css/main.10439607.css.map",
+    "main.8cc93cf0.js.map": "/movie-app-react/static/js/main.8cc93cf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10439607.css",
+    "static/js/main.8cc93cf0.js"
+  ]
+}
