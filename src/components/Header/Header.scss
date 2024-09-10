@@ -1,0 +1,78 @@
+
+.Header{
+    background-color: #373b69;
+    padding: 1rem 2.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    z-index: 1001;
+}
+
+.logo{
+    width: 45px;
+    height: 45px;
+    user-select: none;
+}
+
+.search{
+    padding: 10px 25px;
+    border-radius: 50px;
+    background-color: transparent;
+    border: 2px solid #22254b;
+    font-weight: 700;
+    color: #fff;
+    font-family: inherit;
+}
+
+.search::placeholder{
+    color: #fff;
+}
+
+.search:focus{
+    outline: none;
+    background-color: #22254b;
+}
+
+.menu{
+    height: 30px;
+    width: 30px;
+    user-select: none;
+    display: none;
+    z-index: 1001;
+    /* cursor: pointer; */
+}
+
+.menu-elements{
+    display: none;
+    flex-direction: column;
+    background-color: #1d2040; 
+    width: 70%;
+    position: absolute; 
+    top: 100%; 
+    right: 0;
+    z-index: 1001;
+}
+
+.menu-elements.active{
+    display: flex;
+}
+
+.menu-elements.animate__fadeIn{
+    display: block;
+}
+
+.overlay{
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000; 
+}
+
+.overlay.active{
+    display: block;
+}

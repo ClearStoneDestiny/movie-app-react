@@ -1,0 +1,24 @@
+
+.Home{
+  display: grid;
+  grid-template-columns: minmax(200px, 1fr) 3fr 1fr;
+  grid-column-gap: 20px;
+  grid-template-areas:
+      "head head head"
+      "nav main main"
+}
+
+.Home > .Header{
+  grid-area: head;
+  max-width: 100vw;
+}
+
+.Home > .Movies{
+  grid-area: main;
+  max-width: 100vw;
+}
+
+.Home > .Categories{
+  grid-area: nav;
+  max-width: 100vw;
+}

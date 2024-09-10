@@ -1,0 +1,15 @@
+
+.Movie-grid{
+    display: grid;
+    /* grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); */
+    grid-template-columns: 1fr 1fr 1fr;
+    position: relative;
+    gap: 20px;
+    padding: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+
+    img{
+        max-width: 100%;
+    }
+}

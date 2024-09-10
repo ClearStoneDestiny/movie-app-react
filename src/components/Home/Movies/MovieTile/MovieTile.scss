@@ -1,0 +1,13 @@
+
+.MovieTile{
+    
+
+    .Movie-info{
+        color: #fff;
+        display: grid;
+        grid-template-columns: 3fr 1fr;
+        gap: 10px;
+        align-items: center;
+        padding: 10px;
+    }
+}
